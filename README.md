@@ -1,3 +1,3 @@
 # Employee Portal (HR + FI)
 
-A portal for employees to access their profile, leave balance, pay slips, and HR services in a simple dashboard, making HR and payroll activities faster and more transparent.
+An Angular-based HR & FI integrated portal enabling employees to access personal data, leave requests, and downloadable pay slips. Designed for quick and self-service HR interactions.
